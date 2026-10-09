@@ -1,0 +1,27 @@
+### 王亚宁 (kp-wyn)
+知识宫殿法（KP-4+1）创作者 · 个人与组织知识操作系统
+
+> 把碎片化知识，蒸馏成可复用、可挂载、可进化的能力。
+> Turn fragmented knowledge into reusable, mountable, evolvable skills.
+
+知识宫殿＝AI 时代的“知识操作系统”：以技能家族为单位，把方法论、
+判断标准与工作流，沉淀为可挂载 / 卸载 / 治理的技能资产，重建个人
+与组织的判断力。
+
+#### 著作权登记 Copyright
+- 《知识宫殿：AI 时代如何重建你的判断力、体系感与知识价值》（文字作品）
+- 登记号：国作登字-2026-A-00245762
+- 著作权人：王亚宁 ｜ 中国版权保护中心 ｜ 2026-10-09
+
+#### 核心项目
+- knowledge-palace — 知识宫殿主体系
+- knowledge-palace-glossary — 官方术语表（80+ 原创术语，中英）
+- kp-remember / kp-tidy-up / kp-sum-up —「顺手族」做事的手
+- kp-github-english — 把开源仓库当语料库学英语
+
+#### 技能家族
+顺手族 KP One-Tap（做事的手）· 自知族 KP Mirror（照自己的镜子）
+· 洞察族 · GEO 族
+
+#### 职业身份
+技能架构师 → 宫殿架构师（知识宫殿架构师）
